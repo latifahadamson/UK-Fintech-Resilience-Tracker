@@ -21,6 +21,6 @@ To ensure 100% dashboard uptime, I implemented a **Triple-Tier Fallback Strategy
 * **Security:** Certifi-verified SSL handshakes
 
 ### **How to Run**
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/uk-fintech-resilience-tracker.git`
+1. Clone the repository: `git clone https://github.com/latifahadamson/uk-fintech-resilience-tracker.git`
 2. Install dependencies: `pip install streamlit pandas requests certifi`
 3. Launch the app: `streamlit run app.py`
